@@ -1,0 +1,7 @@
+{:db-server-url "http://127.0.0.1:6060/insert-datapoints"
+ :write-local false
+ :opcua-client-app-name "unique name"
+ :opcua-client-app-uri "unique uri"
+ :opcua-client-timeout 10000
+ :opcua-read-max-age 500.0
+ }

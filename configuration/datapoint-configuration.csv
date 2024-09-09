@@ -1,0 +1,13 @@
+description,id,node,dtype,poll-int
+Int321,957,ns=2;i=11000,int,1000
+Int322,1001,ns=2;i=11001,int,2000
+Int323,1002,ns=2;i=11002,int,4000
+Int324,2,ns=2;i=11003,int,5000
+Int325,3222654,ns=2;i=11004,int,6000
+Int326,19845,ns=2;i=11005,int,7000
+Int327,31215,ns=2;i=11006,int,4000
+Int328,98,ns=2;i=11007,int,2000
+Int329,88,ns=2;i=11008,int,4000
+Int320,187,ns=2;i=11009,int,11000
+Int3210,359,ns=2;i=11010,int,14000
+Int3211,18,ns=2;i=11011,int,15000
